@@ -10,8 +10,9 @@
 
 ## Contents:
 
-- Notebooks
+- Data Analysis:
 1. `machine_learning.ipynb` - It contains the whole coding of the project, including formulas and comments explaining the whole process.
+2. `data_exploration.ipynb` - Data visualization dashboard created with Tableau.
 
 - Other folders
 1. results - Contains the predictions of some models alongside the actual values for comparison.
