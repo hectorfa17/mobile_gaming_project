@@ -3,7 +3,7 @@
 ## Overview
 
 - Data Analytics project of JetPack Joyride in collaboration with [Halfbrick](https://www.halfbrick.com/), the studio that brought to life this video game. 
-- The project consists of the training of: 
+- The project consists of:
   - The training of several Machine Learning models to predict the player retention, ranging from a simple Linear Model to more complex ones such as Random Forests or a Neural Network.
   - A brief Data Visualization section with Tableau.
 - The project does not contain any Data file for confidentiality reasons.
